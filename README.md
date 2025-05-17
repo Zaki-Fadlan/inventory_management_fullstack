@@ -16,6 +16,7 @@ cd inventory_management_fullstack
 1. Clone the repository
 2. Install dependencies:
    ```bash
+   cd backend
    npm install
    ```
 
