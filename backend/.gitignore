@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+bulk.sh
+test-api.sh
+
+# Environment files
+.env
+
+# npm package lock files
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Dependency directories (e.g., for yarn or pnpm)
+.pnp/
+.pnp.js
