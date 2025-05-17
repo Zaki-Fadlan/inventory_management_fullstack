@@ -48,7 +48,7 @@ node run start
    cd front_end
    npm install
    ```
-### Install
+### Run
    ```bash
     npm run dev
    ```
